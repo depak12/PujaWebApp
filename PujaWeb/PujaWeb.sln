@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PujaWeb", "PujaWeb\PujaWeb.csproj", "{A95DED2A-77E7-4FC1-8CA3-F718DFBBB869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95DED2A-77E7-4FC1-8CA3-F718DFBBB869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95DED2A-77E7-4FC1-8CA3-F718DFBBB869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95DED2A-77E7-4FC1-8CA3-F718DFBBB869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95DED2A-77E7-4FC1-8CA3-F718DFBBB869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362AF816-1889-4222-B23C-3CD47AB3C118}
+	EndGlobalSection
+EndGlobal
